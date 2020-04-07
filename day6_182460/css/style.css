@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box {
+background-color: red;
+height: 600px;
+width: 600px;
+}
+
+.mylogo {
+background-color: blue;
+width: 100px;
+height: 100px;
+float: left;
+margin: 10px;
+}
+
+.myimage {
+width: 100px;
+height: 100px;
+}
+
